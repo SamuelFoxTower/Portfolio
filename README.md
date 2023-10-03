@@ -1,6 +1,6 @@
 # Portfolio
 
-Training projects
+Implemented projects
 
 | Project name | The company's field of activity | Direction of activity | Skills and tools | Project objectives            | 
 | :---------------- | ----------------: | ----------------: | ----------------: | :---------------------------------: |  

@@ -5,10 +5,10 @@
 <table>
     <tr>
         <th> Project name </th>
-        <td>The company's field of activity </td>
-        <td> Direction of activity </td>
-        <td> Skills and tools </td>
-        <td> Project objectives </td>
+        <th> The company's field of activity </th>
+        <th> Direction of activity </th>
+        <th> Skills and tools </th>
+        <th> Project objectives </th>
     </tr>
     <th>Classification</th>
     <tr>

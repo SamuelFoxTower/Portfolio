@@ -3,13 +3,13 @@
 ### Machine Learning
 
 <table>
-    <tr>
+    <th>
         <td> Project name </td>
         <td>The company's field of activity </td>
         <td> Direction of activity </td>
         <td> Skills and tools </td>
         <td> Project objectives </td>
-    </tr>
+    </th>
     <th>Classification</th>
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/churn_telecom">Прогноз оттока клиентов телеком компании </a></td>

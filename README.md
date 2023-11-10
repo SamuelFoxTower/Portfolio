@@ -58,7 +58,7 @@
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/pars-examples">Парсинг данных (обучение) </a></td>
         <td> Скраппинг </td>
-        <td> Практика сбора информации</td>
+        <td> Практика сбора данных</td>
         <td> Python Requests Json BeautifulSoup4 </td>
         <td> Скраппинг товаров с сайта интренет-магазина </td>
     </tr>

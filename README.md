@@ -18,6 +18,7 @@ Implemented projects
 
 #### Projects
 ##### Machine Learning
+
 <table>
   <th>Classification</th>
   <tr>

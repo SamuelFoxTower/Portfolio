@@ -10,7 +10,7 @@
         <td> Skills and tools </td>
         <td> Project objectives </td>
     </tr>
-    <th>Классификация</th>
+    <th>Classification</th>
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/churn_telecom">Прогноз оттока клиентов телеком компании </a></td>
         <td> Телеком Промышленность </td>
@@ -32,7 +32,7 @@
         <td> Python Pandas Matplotlib Scikit-learn </td>
         <td> Данная задача проверялась другими студентами и была выполнена таким образом, чтобы дать возможность посмотреть и подчерпнуть методы хорошей и понятной реализации решения задачи </td>
     </tr>
-    <th>Регрессия</th>
+    <th>Regression</th>
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/determining-cost-cars">Построение модели определения стоимости автомобиля </a></td>
         <td> Интернет-сервисы Интернет-магазины Бизнес </td> 
@@ -54,7 +54,7 @@
         <td> Python Pandas Matplotlib Numpy Scikit-learn Исследовательский анализ </td>
         <td> Спрогнозировать концентрацию золота при проведении процесса очистки золота </td>
     </tr>
-    <th>Обучающие ноутбуки</th>
+    <th>Training</th>
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/pars-examples">Парсинг данных (обучение) </a></td>
         <td> Скраппинг </td>
@@ -62,6 +62,7 @@
         <td> Python Requests Json BeautifulSoup4 </td>
         <td> Скраппинг товаров с сайта интренет-магазина </td>
     </tr>
+    <th>Educational cheat sheets</th>
     <tr>
         <td><a href="">Практика SQL (sql-ex.ru), Practicum </a></td>
         <td> Запросы </td>

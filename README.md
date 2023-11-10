@@ -10,14 +10,14 @@
         <td> Skills and tools </td>
         <td> Project objectives </td>
     </tr>
-    <th>Классификация
+    <th>Классификация</th>
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/churn_telecom">Прогноз оттока клиентов телеком компании </a></td>
         <td> Телеком Промышленность </td>
         <td> Машинное обучение Классификация </td>
         <td> Python Pandas Matplotlib Scikit-learn Исследовательский анализ данных </td>
         <td> По персональным данным некоторых клиентов, информации о тарифе и договорах научиться прогнозировать отток клиентов </td>
-    </tr></th>th
+    </tr>
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/сlassification-comments"> Обучение модели классификации комментариев</a></td>
         <td> МО для текстов </td>
@@ -67,13 +67,13 @@
         <td> Запросы </td>
         <td> Практика SQL </td>
         <td> SQL SQLite3 PostgreSQL </td>
-        <td> Решение задач тренажера SQL </td>
+        <td> Решение задач тренажера SQL (In progress...) </td>
     </tr>
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/algorithms"> Алгоритмы</td>
         <td> Алгоритмы</td>
         <td> Практика решения алгоритмических задач</td>
         <td> Python</td>
-        <td> Краткий разбор популярных алгоритмов Python и решение LeetCode</td>
+        <td> Краткий разбор популярных алгоритмов Python и решение LeetCode (In progress...)</td>
     </tr>
 </table>

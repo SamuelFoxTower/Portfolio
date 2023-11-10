@@ -10,14 +10,14 @@
         <td> Skills and tools </td>
         <td> Project objectives </td>
     </tr>
-    <th>Классификация</th>
+    <th>Классификация
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/churn_telecom">Прогноз оттока клиентов телеком компании </a></td>
         <td> Телеком Промышленность </td>
         <td> Машинное обучение Классификация </td>
         <td> Python Pandas Matplotlib Scikit-learn Исследовательский анализ данных </td>
         <td> По персональным данным некоторых клиентов, информации о тарифе и договорах научиться прогнозировать отток клиентов </td>
-    </tr>
+    </tr></th>th
     <tr>
         <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/сlassification-comments"> Обучение модели классификации комментариев</a></td>
         <td> МО для текстов </td>

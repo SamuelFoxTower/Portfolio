@@ -15,65 +15,78 @@ Implemented projects
 |9. [Практика SQL (sql-ex.ru), Practicum]() | Запросы | Практика SQL | SQL SQLite3 PostgreSQL | Решение задач тренажера SQL |
 
 
+## Projects
 
-#### Projects
-##### Machine Learning
+### Machine Learning
 
 <table>
-  <th>Classification</th>
-  <tr>
-    <td colspan="2">Text processing with BERT</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/сlassification-comments">Training the comment classification model</a></td>
-    <td>- Determination of the toxicity of comments</td>
-  </tr>
-  <tr>
-    <td colspan="2"><font size="4">Telecommunications</font></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/churn_telecom">Forecast of outflow of telecom company customers</a></td>
-    <td>- According to the personal data of some customers, information about the tariff and contracts, learn to predict the outflow of customers</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/churn_telecom_DLS">Training notebook for solving the problem of classifying customer churn</a></td>
-    <td>- This task was tested by other students and was performed in such a way as to give an opportunity to look at and learn the methods of a good and understandable implementation of the solution of the problem</td>
-  </tr>
-  <th>Regression</th>
-    <tr>
-    <td colspan="2">Online services and stores</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/determining-cost-cars">Building a model for determining the cost of a car</a></td>
-    <td>- Development of a system for recommending the cost of a car based on its description</td>
-  </tr>
-  <tr>
-    <td colspan="2">Industry</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/well-locations">Determining the most profitable oil production region</a></td>
-    <td>- Based on the geological exploration data, select an oil production area</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/recovery-gold">Investigation of the technological process of gold purification</a></td>
-    <td>- Predict the concentration of gold during the gold purification process</td>
-  </tr>
-<th>Training</th>
-  <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/pars-examples">Data pars (training)</a></td>
-    <td>- Pars the website of an online store</td>
-  </tr>
-  <tr>
-    <td><a href="ссылка на проект">SQL Practice (sql-ex.ru), Practicum</a></td>
-    <td>- (In progress...)</td>
-  </tr>
-<th>Educational cheat sheets</th>
-  <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/statistic">Statistics</a></td>
-    <td>- Brief analysis of statistical concepts and methods<br> (In progress...)</td>
-  </tr>
-   <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/algorithms">Algorithms</a></td>
-    <td>- Quick analysis of popular Python algorithms and LeetCode solution<br> (In progress...)</td>
-  </tr>
-</table>
+<tr>
+    <td> Project name </td>
+    <td>The company's field of activity </td>
+    <td> Direction of activity </td>
+    <td> Skills and tools </td>
+    <td> Project objectives </td>
+</tr>
+<tr> 
+    <td>1. [Прогноз оттока клиентов Банка]() </td>
+    <td> Бизнес  Инвестиции Банковская сфера Кредитование </td>
+    <td> Машинное обучение Классификация </td>
+    <td> Python Pandas Matplotlib Scikit-learn </td>
+    <td> На основе данных из банка определить клиента, который может уйти </td>
+</tr>
+<tr>
+<td>2. [Прогноз оттока клиентов телеком компании](https://github.com/SamuelFoxTower/Portfolio/tree/master/churn_telecom) 
+    <td> Телеком Промышленность </td>
+    <td> Машинное обучение Классификация </td>
+    <td> Python Pandas Matplotlib Scikit-learn Исследовательский анализ данных </td>
+    <td> По персональным данным некоторых клиентов, информации о тарифе и договорах научиться прогнозировать отток клиентов </td>
+</tr>
+<tr>
+    <td>3. [Построение модели определения стоимости автомобиля](https://github.com/SamuelFoxTower/Portfolio/tree/main/determining-cost-cars) </td>
+    <td> Интернет-сервисы Интернет-магазины Бизнес </td> 
+    <td> Машинное обучение </td>
+    <td> Python Pandas Catboost LightGBM </td>
+    <td> Разработка системы рекомендации стоимости автомобиля на основе его описания </td>
+</tr>
+<tr>
+    <td>4. [Определение наиболее выгодного региона нефтедобычи](https://github.com/SamuelFoxTower/Portfolio/tree/master/well-locations) </td>
+    <td> Добывающие компании </td>
+    <td> Машинное обучение Регрессия Разработка бизнес-модели Финансовый аналитик </td>
+    <td> Pandas Scikit-learn Bootstrap </td>
+    <td> На основе данных геологии разведки выбрать район добычи нефти</td>
+</tr>
+<tr>
+    <td>5. [Исследование технологического процесса очистки золота](https://github.com/SamuelFoxTower/Portfolio/tree/master/recovery-gold) </td>
+    <td> Промышленность </td>
+    <td> Машинное обучение Аналитик (универсал) </td>
+    <td> Python Pandas Matplotlib Numpy Scikit-learn Исследовательский анализ </td>
+    <td> Спрогнозировать концентрацию золота при проведении процесса очистки золота </td>
+</tr>
+<tr>
+    <td>6. [Обучение модели классификации комментариев](https://github.com/SamuelFoxTower/Portfolio/tree/main/сlassification-comments) </td>
+    <td> МО для текстов </td>
+    <td> Машинное обучение NLP </td>
+    <td> Python Scikit-learn Numpy Torch HuggingFace BERT </td>
+    <td> Определение токсичности комментариев </td>
+</tr>
+<tr>
+    <td>7. [Обучающий ноутбук решения задачи классификации оттока клиентов (DLS)](https://github.com/SamuelFoxTower/Portfolio/tree/main/churn_telecom_DLS) </td>
+    <td> Телеком Обучение </td>
+    <td> Машинное обучение Классификация Менторство </td>
+    <td> Python Pandas Matplotlib Scikit-learn </td>
+    <td> Данная задача проверялась другими студентами и была выполнена таким образом, чтобы дать возможность посмотреть и подчерпнуть методы хорошей и понятной реализации решения задачи </td>
+</tr>
+<tr>
+    <td>8. [Парсинг данных (обучение)](https://github.com/SamuelFoxTower/Portfolio/tree/master/pars-examples) </td>
+    <td> Скраппинг </td>
+    <td> Python Requests Json BeautifulSoup4 </td>
+    <td> Скраппинг товаров с сайта интренет-магазина </td>
+</tr>
+<tr>
+    <td>9. [Практика SQL (sql-ex.ru), Practicum]() </td>
+    <td> Запросы </td>
+    <td> Практика SQL </td>
+    <td> SQL SQLite3 PostgreSQL </td>
+    <td> Решение задач тренажера SQL </td>
+</tr>
+

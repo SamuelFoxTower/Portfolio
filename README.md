@@ -34,7 +34,7 @@
     </tr>
     <th>Регрессия</th>
     <tr>
-        <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/determining-cost-cars"> Построение модели определения стоимости автомобиля </a></td>
+        <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/determining-cost-cars">Построение модели определения стоимости автомобиля </a></td>
         <td> Интернет-сервисы Интернет-магазины Бизнес </td> 
         <td> Машинное обучение </td>
         <td> Python Pandas Catboost LightGBM </td>
@@ -70,7 +70,7 @@
         <td> Решение задач тренажера SQL (In progress...) </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/algorithms"> Алгоритмы</td>
+        <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/algorithms">Алгоритмы</td>
         <td> Алгоритмы</td>
         <td> Практика решения алгоритмических задач</td>
         <td> Python</td>
